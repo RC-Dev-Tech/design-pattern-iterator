@@ -47,7 +47,7 @@ Iterator模式可以幫助你簡化代碼，使其更容易理解和維護。
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-iterator/blob/main/C%2B%2B/main.cpp) - Iterator Pattern (C++) 
 
 ---
 
